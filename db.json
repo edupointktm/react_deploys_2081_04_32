@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Prabhat Kumar Mallik",
+      "address": "Kathmandu",
+      "mobile_no": "54545454",
+      "user_type": "super admin",
+      "email": "prabhat@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "Mukesh Hari Om",
+      "address": "Pokhara",
+      "mobile_no": "8854545",
+      "user_type": "admin",
+      "email": "mukesh@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "d78c",
+      "name": "Sunil Kumar Yadav",
+      "address": "dolkha",
+      "email": "dsf@test.com",
+      "mobile_no": "3453",
+      "user_type": "345"
+    },
+    {
+      "id": "2",
+      "name": "Rupesh Hari Om",
+      "address": "Pokhara",
+      "mobile_no": "8854545",
+      "user_type": "admin",
+      "email": "mukesh@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "53c0",
+      "name": "ganesh",
+      "address": "Janakpur",
+      "mobile_no": "34456546",
+      "user_type": "guest",
+      "email": "rita@gmail.com",
+      "password": ""
+    },
+    {
+      "id": "1ee6",
+      "name": "",
+      "address": "",
+      "mobile_no": "",
+      "user_type": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "15da",
+      "name": "prabhat",
+      "address": "janakpur",
+      "mobile_no": "584544854",
+      "user_type": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "7f22",
+      "name": "Hari om Adhikari",
+      "address": "Pokhara",
+      "mobile_no": "334321",
+      "user_type": "admin",
+      "email": "ram@test.com",
+      "password": "ram"
+    },
+    {
+      "id": "14b8",
+      "name": "dsfsd",
+      "address": "dsf",
+      "mobile_no": "435435",
+      "user_type": "ad",
+      "email": "dsf@test.com",
+      "password": "4545"
+    }
+  ]
+}
